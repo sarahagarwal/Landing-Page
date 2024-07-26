@@ -1,33 +1,33 @@
-Hyperspace by HTML5 UP
-html5up.net | @ajlkn
-Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+# Landing Page
 
+This landing page is designed to showcase my academic journey, professional projects, and internships. As a Computer Science major with a minor in Tech Entrepreneurship and Corporate Innovation, I’ve created this page to highlight my achievements, ongoing projects, and career experiences. 
 
-So I've had the wireframe for this particular design kicking around for some time, but with all
-the other interesting (and in some cases, semi-secret) projects I've been working on it took me
-a little while to get to actually designing and coding it. Fortunately, things have eased up
-enough for me to finaly get around to it, so I'm happy to introduce Hyperspace: a fun, blocky,
-one-page design with a lot of color, a bit of animation, and an additional "generic" page template
-(because hey, even one-page sites usually need an interior page or two). Hope you dig it :)
+## About
 
-Demo images* courtesy of Unsplash, a radtastic collection of CC0 (public domain) images
-you can use for pretty much whatever.
+On this page, you will find detailed information about:
 
-(* = not included)
+- **Projects:** An overview of various projects I’ve worked on, including web development projects, software engineering assignments, and more.
+- **Internships:** Information on the internships I have participated in, showcasing my hands-on experience in different tech environments.
+- **Certifications and Skills:** A summary of certifications and skills I’ve acquired, such as AWS Cloud Practitioner certification and other relevant expertise.
 
-AJ
-aj@lkn.io | @ajlkn
+Feel free to explore the different sections to learn more about my journey and professional endeavors. This page serves as a comprehensive portfolio of my work and experiences.
+Usage
 
+Feel free to use this template for your own projects. Customize it by editing the HTML and CSS files as needed.
 
-Credits:
+License
 
-	Demo Images:
-		Unsplash (unsplash.com)
+This project is licensed under the MIT License - see the LICENSE file for details.
 
-	Icons:
-		Font Awesome (fontawesome.io)
+Credits
 
-	Other:
-		jQuery (jquery.com)
-		Scrollex (github.com/ajlkn/jquery.scrollex)
-		Responsive Tools (github.com/ajlkn/responsive-tools)
+Original Design: Hyperspace by HTML5 UP (html5up.net) - Free for personal and commercial use under the CCA 3.0 license.
+Demo Images: Courtesy of Unsplash (unsplash.com)
+Icons: Font Awesome (fontawesome.io)
+Libraries:
+jQuery (jquery.com)
+Scrollex (github.com/ajlkn/jquery.scrollex)
+Responsive Tools (github.com/ajlkn/responsive-tools)
+Contact
+
+For any questions or suggestions, please contact Sarah Agarwal at sarahagarwal17@gmail.com.
